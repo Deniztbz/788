@@ -1,0 +1,6 @@
+cd $home
+
+docker pull nulink/nulink:latest
+
+cd /root
+mkdir nulink
